@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\C++\OpenMP\test\Source.cpp(103,9): warning C4849: Предложение "collapse" OpenMP игнорируется в директиве "parallel for".
+  test.vcxproj -> C:\C++\OpenMP\Debug\test.exe
